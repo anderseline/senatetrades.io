@@ -9,22 +9,20 @@
 # --- Required options --- #
 ############################
 
-# Name of website
-title: My Website
+Name: SenateTrades
 
 # Your name to show in the footer
-author: Some Person
+author: Anders Seline
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Newsletter Signup Form: "https://docs.google.com/forms/d/e/1FAIpQLScnSVtK0tDMzJJEuNwqXYTuMK2RWexg0pDT3X9ZJiQHW6beeQ/viewform?usp=sf_link"
+  Twitter: "https://twitter.com/Senate_Trades"
+  Data Dashboard: "https://docs.google.com/spreadsheets/d/14eg98rZU5Rza-MeUQMQJAaJD90Iz4OwTniB5Pd4vrzE/edit#gid=0"
+  Question & Suggestion From: "https://docs.google.com/forms/d/e/1FAIpQLSdivz9xjREirrWGmRUgVr6tBCtvoEJNF3Y0gkihADa0cpyaBg/viewform?usp=sf_link"
 
 ################
 # --- Logo --- #
