@@ -19,11 +19,13 @@ author: Anders Seline
 ###############################################
 
 navbar-links:
-  Data Dashboard: "https://docs.google.com/spreadsheets/d/14eg98rZU5Rza-MeUQMQJAaJD90Iz4OwTniB5Pd4vrzE/edit#gid=0"
-  Community From: "https://docs.google.com/forms/d/e/1FAIpQLSdivz9xjREirrWGmRUgVr6tBCtvoEJNF3Y0gkihADa0cpyaBg/viewform?usp=sf_link"
-  Twitter: "https://twitter.com/Senate_Trades"
-  Newsletter: "https://docs.google.com/forms/d/e/1FAIpQLScnSVtK0tDMzJJEuNwqXYTuMK2RWexg0pDT3X9ZJiQHW6beeQ/viewform?usp=sf_link"
   About: "https://github.com/anderseline/SenateTrades-Release#readme"
+  Newsletter: "https://docs.google.com/forms/d/e/1FAIpQLScnSVtK0tDMzJJEuNwqXYTuMK2RWexg0pDT3X9ZJiQHW6beeQ/viewform?usp=sf_link"
+  Twitter: "https://twitter.com/Senate_Trades"
+  Data Dashboard: "https://docs.google.com/spreadsheets/d/14eg98rZU5Rza-MeUQMQJAaJD90Iz4OwTniB5Pd4vrzE/edit#gid=0"
+  Community Form: "https://docs.google.com/forms/d/e/1FAIpQLSdivz9xjREirrWGmRUgVr6tBCtvoEJNF3Y0gkihADa0cpyaBg/viewform?usp=sf_link"
+
+
 
 ################
 # --- Logo --- #
