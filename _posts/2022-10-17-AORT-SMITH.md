@@ -17,5 +17,5 @@ comments: true
 <b>Sector: </b>Healthcare <i>(Medical Devices)</i><br>
 <b>Recent Articles:</b>
 - [Artivion (NYSE:AORT) shareholders have endured a 55% loss from investing in the stock three years ago](https://finance.yahoo.com/news/artivion-nyse-aort-shareholders-endured-190954257.html)
-
+- [Artivion: Stopping PROACT Xa Trial Removes Long-Term Growth Driver](https://seekingalpha.com/article/4543469-artivion-stopping-proact-xa-trial-removes-long-term-growth-driver)
 [Contact Senator Smith](https://www.smith.senate.gov/contact)
