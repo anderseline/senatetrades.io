@@ -1,7 +1,4 @@
-            title_url = ('- [' + title1 + '](' + url1 + ')\n')
-            title_url_enc = title_url.encode('ascii', 'ignore')
-            title_url_dec = title_url_enc.decode()
-            lines.append(title_url_dec)---
+---
 layout: post
 title: ChannelAdvisor Corporation Common Stock [ECOM]
 subtitle: Senator - Thomas H Tuberville
@@ -11,12 +8,13 @@ comments: true
 ---
 
 # New Trade: [ECOM](https://finance.yahoo.com/quote/ECOM/) #
-<b>Trade Date: </b>2022-06-01 (148 days ago)<br>
+<b>Trade Date: </b>2022-06-01 (42 days ago)<br>
 <b>File Date: </b>2022-07-13<br>
 <b>Senator: </b>Thomas H Tuberville<br>
 <b>Equity: </b>ChannelAdvisor Corporation Common Stock [ECOM]<br>
 <b>Trade Value: </b>$1,001 to $15,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>
+<b>Sector: </b>Technology <i>(Software Application)</i><br>
 <b>Recent Articles:</b>
 - [ECOM Stock Alert: Halper Sadeh LLC Is Investigating Whether the Sale of ChannelAdvisor Corporation Is Fair to Shareholders](https://www.businesswire.com/news/home/20221002005084/en/ECOM-Stock-Alert-Halper-Sadeh-LLC-Is-Investigating-Whether-the-Sale-of-ChannelAdvisor-Corporation-Is-Fair-to-Shareholders)
 - [12 Best Small Cap Ecommerce Stocks to Buy](https://finance.yahoo.com/news/12-best-small-cap-ecommerce-183812697.html)

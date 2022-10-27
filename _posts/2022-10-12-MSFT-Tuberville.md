@@ -8,12 +8,13 @@ comments: true
 ---
 
 # New Trade: [MSFT](https://finance.yahoo.com/quote/MSFT/) #
-<b>Trade Date: </b>2022-09-19 (38 days ago)<br>
+<b>Trade Date: </b>2022-09-19 (23 days ago)<br>
 <b>File Date: </b>2022-10-12<br>
 <b>Senator: </b>Thomas H Tuberville<br>
 <b>Equity: </b>Microsoft Corporation - Common Stock [MSFT]<br>
 <b>Trade Value: </b>$250,001 to $500,000<br>
 <b>Market Cap: </b>Large Cap (Over $10B)<br>
+<b>Sector: </b>Technology <i>(Software Infrastructure)</i><br>
 <b>Recent Articles:</b>
 - [The 3 Best Blue-Chip Stocks to Buy During a Market Crash](https://stocknews.com/news/msft-unh-dow-the-3-best-blue-chip-stocks-to-buy-during-a-market/)
 - [2 Tech Stocks to Consider Buying Over NVIDIA](https://stocknews.com/news/nvda-csco-hckt-2-tech-stocks-to-consider-buying-over-nvidia/)
