@@ -3,7 +3,7 @@ layout: post
 title: ChannelAdvisor Corporation Common Stock [ECOM]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [ECOM,Thomas H Tuberville, Technology, Software—Application, Small Cap (Under $2B)]
+tags: [ECOM,Thomas H Tuberville, Technology, Software, Application, Small Cap (Under $2B)]
 comments: true
 ---
 
@@ -14,7 +14,6 @@ comments: true
 <b>Equity: </b>ChannelAdvisor Corporation Common Stock [ECOM]<br>
 <b>Trade Value: </b>$100,001 to $250,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>
-<b>Sector: </b>Technology <i>(Software—Application)</i><br>
 <b>Recent Articles:</b>
 - [ECOM Stock Alert: Halper Sadeh LLC Is Investigating Whether the Sale of ChannelAdvisor Corporation Is Fair to Shareholders](https://www.businesswire.com/news/home/20221002005084/en/ECOM-Stock-Alert-Halper-Sadeh-LLC-Is-Investigating-Whether-the-Sale-of-ChannelAdvisor-Corporation-Is-Fair-to-Shareholders)
 - [12 Best Small Cap Ecommerce Stocks to Buy](https://finance.yahoo.com/news/12-best-small-cap-ecommerce-183812697.html)

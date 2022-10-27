@@ -14,7 +14,6 @@ comments: true
 <b>Equity: </b>Stratasys, Ltd. - Common Stock [SSYS]<br>
 <b>Trade Value: </b>$15,001 to $50,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>
-<b>Sector: </b>Technology <i>(Computer Hardware)</i><br>
 <b>Recent Articles:</b>
 - [Tracking Cathie Wood's ARK Invest 13F Portfolio - Q3 2022 Update](https://seekingalpha.com/article/4547378-cathie-woods-ark-invest-13f-portfolio-q3-2022-update)
 - [Genius Group Limited (GNS) Q2 2022 Earnings Call Transcript](https://seekingalpha.com/article/4547563-genius-group-limited-gns-q2-2022-earnings-call-transcript)

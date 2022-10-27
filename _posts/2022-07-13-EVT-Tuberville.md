@@ -14,6 +14,5 @@ comments: true
 <b>Equity: </b>Eaton Vance Tax Advantaged Dividend Income Fund Co [EVT]<br>
 <b>Trade Value: </b>$15,001 to $50,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>
-<b>Sector: </b>Financial Services <i>(Asset Management)</i><br>
 
 [Contact Senator Tuberville](https://www.tuberville.senate.gov/contact)

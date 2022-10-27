@@ -14,7 +14,6 @@ comments: true
 <b>Equity: </b>Artivion, Inc. Common Stock [AORT]<br>
 <b>Trade Value: </b>$50,001 to $100,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>
-<b>Sector: </b>Healthcare <i>(Medical Devices)</i><br>
 <b>Recent Articles:</b>
 - [Artivion (NYSE:AORT) shareholders have endured a 55% loss from investing in the stock three years ago](https://finance.yahoo.com/news/artivion-nyse-aort-shareholders-endured-190954257.html)
 - [Artivion: Stopping PROACT Xa Trial Removes Long-Term Growth Driver](https://seekingalpha.com/article/4543469-artivion-stopping-proact-xa-trial-removes-long-term-growth-driver)

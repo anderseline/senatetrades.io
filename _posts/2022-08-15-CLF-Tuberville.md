@@ -14,7 +14,6 @@ comments: true
 <b>Equity: </b>Cleveland-Cliffs Inc. Common Stock [CLF]<br>
 <b>Trade Value: </b>$50,001 to $100,000<br>
 <b>Market Cap: </b>Medium Cap ($2B to $10B)<br>
-<b>Sector: </b>Basic Materials <i>(Steel)</i><br>
 <b>Recent Articles:</b>
 - [What To Expect From Cleveland-Cliffs Q3 Results?](https://www.forbes.com/sites/greatspeculations/2022/10/13/what-to-expect-from-cleveland-cliffs-q3-results/)
 - [Cleveland-Cliffs: Get Ready](https://seekingalpha.com/article/4545829-cleveland-cliffs-get-ready)
