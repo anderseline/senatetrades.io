@@ -31,7 +31,7 @@ title: What is SenateTrades?
 ## <b>How's it Work?</b> ##
 
 <p>
-    This project tracks stock market trading activity of US senators by scraping the <a href="https://sec.report/Senate-Stock-Disclosures">SEC EDGAR Insider Trading Disclosures List</a> multiple times each hour for the most up-to-date information, and looks for any and all trades published that day. A <i>particularly interesting trade</i> is defined as any purchase of common stock where:
+    This project tracks stock market trading activity of US senators by scraping the SEC publication of stock trades made by senators multiple times each hour for the most up-to-date information, and continually looks for any new trades published that day. A <i>particularly interesting trade</i> is defined as any purchase of common stock where:
     <ul style="list-style-type:square">
         <li>The company is small (market cap <$2B)</li>
         <li>The purchase is worth over $100,000, regardless of company size</li>
