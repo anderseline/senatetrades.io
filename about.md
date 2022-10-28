@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is SenateTrades?
-subtitle: Besides a new take on investment research 
+subtitle: besides a fresh take on investment research 
 ---
 
 <h2>
