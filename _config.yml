@@ -125,12 +125,12 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#2596BE"
-hover-col: "#2596BE" #green on senatetrades logo
+link-col: "#538235"
+hover-col: "#538235" #green on senatetrades logo
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#538235"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
