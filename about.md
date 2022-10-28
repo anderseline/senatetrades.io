@@ -67,4 +67,4 @@ Credit to [Jie Jenn](https://www.youtube.com/channel/UCvVZ19DRSLIC2-RUOeWx8ug) f
 
 The [NewsAPI](https://newsapi.org/) service was used to find and aggregate news articles relevant to each trade. 
 
-This project began as a side-project by students at Lehigh University, and <b>none of the information SenateTrades provides is investment advice</b>. The primary purpose of this service is to keep users informed on the actions of their representatives, and to aid them in their own investment research. We do not suggest purchasing any or all stocks which are mentioned in any email alerts, tweets, or dashboard entries.
+<b>None of the information SenateTrades provides is investment advice</b>. The primary purpose of this service is to keep users informed on the actions of their representatives, and to aid them in their own investment research. We do not suggest purchasing any or all stocks which are mentioned in any email alerts, tweets, or dashboard entries.
