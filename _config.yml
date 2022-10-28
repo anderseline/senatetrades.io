@@ -124,7 +124,7 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#2596BE"
 hover-col: "#2596BE" #green on senatetrades logo
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
