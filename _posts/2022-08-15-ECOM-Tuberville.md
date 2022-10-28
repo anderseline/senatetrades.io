@@ -3,14 +3,14 @@ layout: post
 title: ChannelAdvisor Corporation Common Stock [ECOM]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [ECOM,Thomas H Tuberville, Technology, Software, Application, Small Cap (Under $2B)]
+tags: [ECOM,Thomas H Tuberville, Republican, Technology, Software, Application, Small Cap (Under $2B)]
 comments: true
 ---
 
 # New Trade: [ECOM](https://finance.yahoo.com/quote/ECOM/) #
 <b>Trade Date: </b>2022-07-14 (32 days ago)<br>
 <b>File Date: </b>2022-08-15<br>
-<b>Senator: </b>Thomas H Tuberville<br>
+<b>Senator: </b>Thomas H Tuberville (R - Alabama)<br>
 <b>Equity: </b>ChannelAdvisor Corporation Common Stock [ECOM]<br>
 <b>Trade Value: </b>$100,001 to $250,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>

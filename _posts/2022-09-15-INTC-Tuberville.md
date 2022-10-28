@@ -3,14 +3,14 @@ layout: post
 title: Intel Corporation - Common Stock [INTC]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [INTC,Thomas H Tuberville, Technology, Semiconductors, Large Cap (Over $10B)]
+tags: [INTC,Thomas H Tuberville, Republican, Technology, Semiconductors, Large Cap (Over $10B)]
 comments: true
 ---
 
 # New Trade: [INTC](https://finance.yahoo.com/quote/INTC/) #
 <b>Trade Date: </b>2022-08-05 (41 days ago)<br>
 <b>File Date: </b>2022-09-15<br>
-<b>Senator: </b>Thomas H Tuberville<br>
+<b>Senator: </b>Thomas H Tuberville (R - Alabama)<br>
 <b>Equity: </b>Intel Corporation - Common Stock [INTC]<br>
 <b>Trade Value: </b>$100,001 to $250,000<br>
 <b>Market Cap: </b>Large Cap (Over $10B)<br>

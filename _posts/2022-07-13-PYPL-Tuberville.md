@@ -3,14 +3,14 @@ layout: post
 title: PayPal Holdings, Inc. - Common Stock [PYPL]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [PYPL,Thomas H Tuberville, Financial Services, Credit Services, Large Cap (Over $10B)]
+tags: [PYPL,Thomas H Tuberville, Republican, Financial Services, Credit Services, Large Cap (Over $10B)]
 comments: true
 ---
 
 # New Trade: [PYPL](https://finance.yahoo.com/quote/PYPL/) #
 <b>Trade Date: </b>2022-06-17 (26 days ago)<br>
 <b>File Date: </b>2022-07-13<br>
-<b>Senator: </b>Thomas H Tuberville<br>
+<b>Senator: </b>Thomas H Tuberville (R - Alabama)<br>
 <b>Equity: </b>PayPal Holdings, Inc. - Common Stock [PYPL]<br>
 <b>Trade Value: </b>$100,001 to $250,000<br>
 <b>Market Cap: </b>Large Cap (Over $10B)<br>

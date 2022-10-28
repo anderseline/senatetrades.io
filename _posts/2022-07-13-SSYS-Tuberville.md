@@ -3,14 +3,14 @@ layout: post
 title: Stratasys, Ltd. - Common Stock [SSYS]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [SSYS,Thomas H Tuberville, Technology, Computer Hardware, Small Cap (Under $2B)]
+tags: [SSYS,Thomas H Tuberville, Republican, Technology, Computer Hardware, Small Cap (Under $2B)]
 comments: true
 ---
 
 # New Trade: [SSYS](https://finance.yahoo.com/quote/SSYS/) #
 <b>Trade Date: </b>2022-06-09 (34 days ago)<br>
 <b>File Date: </b>2022-07-13<br>
-<b>Senator: </b>Thomas H Tuberville<br>
+<b>Senator: </b>Thomas H Tuberville (R - Alabama)<br>
 <b>Equity: </b>Stratasys, Ltd. - Common Stock [SSYS]<br>
 <b>Trade Value: </b>$15,001 to $50,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>

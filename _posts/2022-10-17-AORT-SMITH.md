@@ -3,14 +3,14 @@ layout: post
 title: Artivion, Inc. Common Stock [AORT]
 subtitle: Senator - Tina Smith
 gh-repo: anderseline/senatetrades.io
-tags: [AORT,Tina Smith, Healthcare, Medical Devices, Small Cap (Under $2B)]
+tags: [AORT,Tina Smith, Democratic, Healthcare, Medical Devices, Small Cap (Under $2B)]
 comments: true
 ---
 
 # New Trade: [AORT](https://finance.yahoo.com/quote/AORT/) #
 <b>Trade Date: </b>2022-09-23 (24 days ago)<br>
 <b>File Date: </b>2022-10-17<br>
-<b>Senator: </b>Tina Smith<br>
+<b>Senator: </b>Tina Smith (D - Minnesota)<br>
 <b>Equity: </b>Artivion, Inc. Common Stock [AORT]<br>
 <b>Trade Value: </b>$50,001 to $100,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>

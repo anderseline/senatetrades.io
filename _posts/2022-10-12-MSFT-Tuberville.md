@@ -3,14 +3,14 @@ layout: post
 title: Microsoft Corporation - Common Stock [MSFT]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [MSFT,Thomas H Tuberville, Technology, Software, Infrastructure, Large Cap (Over $10B)]
+tags: [MSFT,Thomas H Tuberville, Republican, Technology, Software, Infrastructure, Large Cap (Over $10B)]
 comments: true
 ---
 
 # New Trade: [MSFT](https://finance.yahoo.com/quote/MSFT/) #
 <b>Trade Date: </b>2022-09-19 (23 days ago)<br>
 <b>File Date: </b>2022-10-12<br>
-<b>Senator: </b>Thomas H Tuberville<br>
+<b>Senator: </b>Thomas H Tuberville (R - Alabama)<br>
 <b>Equity: </b>Microsoft Corporation - Common Stock [MSFT]<br>
 <b>Trade Value: </b>$250,001 to $500,000<br>
 <b>Market Cap: </b>Large Cap (Over $10B)<br>

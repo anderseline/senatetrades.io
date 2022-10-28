@@ -3,14 +3,14 @@ layout: post
 title: Cleveland-Cliffs Inc. Common Stock [CLF]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [CLF,Thomas H Tuberville, Basic Materials, Steel, Medium Cap ($2B to $10B)]
+tags: [CLF,Thomas H Tuberville, Republican, Basic Materials, Steel, Medium Cap ($2B to $10B)]
 comments: true
 ---
 
 # New Trade: [CLF](https://finance.yahoo.com/quote/CLF/) #
 <b>Trade Date: </b>2022-07-18 (28 days ago)<br>
 <b>File Date: </b>2022-08-15<br>
-<b>Senator: </b>Thomas H Tuberville<br>
+<b>Senator: </b>Thomas H Tuberville (R - Alabama)<br>
 <b>Equity: </b>Cleveland-Cliffs Inc. Common Stock [CLF]<br>
 <b>Trade Value: </b>$50,001 to $100,000<br>
 <b>Market Cap: </b>Medium Cap ($2B to $10B)<br>
