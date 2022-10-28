@@ -5,7 +5,7 @@ title: About
 
 # Welcome to SenateTrades! #
 
-<b>SenateTrades</b> is a free service that tracks the equity trading activity of US senators and sends automated alerts whenever a particularly interesting trade occurs.
+<b>SenateTrades</b> is a free service that tracks the equity trading activity of US senators and sends automated alerts whenever a particularly interesting trade occurs. Created by <a href="https://www.linkedin.com/in/anders-seline/">Anders Seline</a> while studying at Lehigh University.
 
 # Frequently Visited #
 
