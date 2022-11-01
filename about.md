@@ -8,10 +8,10 @@ title: About Us
 
 # Frequently Visited #
 
-- <b>[Newsletter Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScnSVtK0tDMzJJEuNwqXYTuMK2RWexg0pDT3X9ZJiQHW6beeQ/viewform?usp=sf_link)</b> 
+- <b>[Newsletter Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSdhqKAbnLGOL9Jm9agusyxRuAyXOg_UiJZms9SGHC-hdRLzgQ/viewform?usp=sf_link)</b> 
 - <b>[Twitter](https://twitter.com/Senate_Trades)</b> 
 - <b>[Dashboard](https://docs.google.com/spreadsheets/d/1zSpyfOWCuUkW4yzCh-PnHx5Qv_WWFb3AsMnoXUjr8qk/edit#gid=0)</b> 
-- <b>[Question & Suggestion Form](https://docs.google.com/forms/d/e/1FAIpQLSdivz9xjREirrWGmRUgVr6tBCtvoEJNF3Y0gkihADa0cpyaBg/viewform?usp=sf_link)</b>
+- <b>[Question & Suggestion Form](https://docs.google.com/forms/d/e/1FAIpQLSeSbwH-fTvP5M1ju37EEQa7e4s-cDaN-lKsf0skosXPbZPcew/viewform?usp=sf_link)</b>
 
 # Most-Asked #
 
