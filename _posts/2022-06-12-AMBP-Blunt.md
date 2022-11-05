@@ -3,7 +3,7 @@ layout: post
 title: Ardagh Metal Packaging S.A. Ordinary Shares [AMBP]
 subtitle: Senator - Roy Blunt
 gh-repo: anderseline/senatetrades.io
-tags: [AMBP,Roy Blunt, Republican, Consumer Cyclical, Packaging & Containers, Medium Cap ($2B to $10B)]
+tags: [AMBP,Roy Blunt, Republican, Consumer Cyclical, Consumer Cyclical- Packaging & Containers, Medium Cap ($2B to $10B)]
 comments: true
 ---
 

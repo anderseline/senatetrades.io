@@ -3,7 +3,7 @@ layout: post
 title: Intel Corporation - Common Stock [INTC]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [INTC,Thomas H Tuberville, Republican, Technology, Semiconductors, Large Cap (Over $10B)]
+tags: [INTC,Thomas H Tuberville, Republican, Technology, Technology - Semiconductors, Large Cap (Over $10B)]
 comments: true
 ---
 

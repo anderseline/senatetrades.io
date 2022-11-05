@@ -3,7 +3,7 @@ layout: post
 title: PayPal Holdings, Inc. - Common Stock [PYPL]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [PYPL,Thomas H Tuberville, Republican, Financial Services, Credit Services, Large Cap (Over $10B)]
+tags: [PYPL,Thomas H Tuberville, Republican, Financial Services, Financial Services - Credit Services, Large Cap (Over $10B)]
 comments: true
 ---
 

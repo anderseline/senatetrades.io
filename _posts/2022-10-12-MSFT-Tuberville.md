@@ -3,7 +3,7 @@ layout: post
 title: Microsoft Corporation - Common Stock [MSFT]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [MSFT,Thomas H Tuberville, Republican, Technology, Software, Infrastructure, Large Cap (Over $10B)]
+tags: [MSFT,Thomas H Tuberville, Republican, Technology, Technology - Software Infrastructure, Large Cap (Over $10B)]
 comments: true
 ---
 

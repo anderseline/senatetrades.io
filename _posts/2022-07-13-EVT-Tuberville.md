@@ -3,7 +3,7 @@ layout: post
 title: Eaton Vance Tax Advantaged Dividend Income Fund Co [EVT]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [EVT,Thomas H Tuberville, Republican, Financial Services, Asset Management, Small Cap (Under $2B)]
+tags: [EVT,Thomas H Tuberville, Republican, Financial Services, Financial Services - Asset Management, Small Cap (Under $2B)]
 comments: true
 ---
 

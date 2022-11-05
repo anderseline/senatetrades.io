@@ -3,7 +3,7 @@ layout: post
 title: QUALCOMM Incorporated - Common Stock [QCOM]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [QCOM,Thomas H Tuberville, Republican, Technology, Semiconductors, Large Cap (Over $10B)]
+tags: [QCOM,Thomas H Tuberville, Republican, Technology, Technology - Semiconductors, Large Cap (Over $10B)]
 comments: true
 ---
 

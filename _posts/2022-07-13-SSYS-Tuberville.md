@@ -3,7 +3,7 @@ layout: post
 title: Stratasys, Ltd. - Common Stock [SSYS]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [SSYS,Thomas H Tuberville, Republican, Technology, Computer Hardware, Small Cap (Under $2B)]
+tags: [SSYS,Thomas H Tuberville, Republican, Technology, Technology - Computer Hardware, Small Cap (Under $2B)]
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Cleveland-Cliffs Inc. Common Stock [CLF]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [CLF,Thomas H Tuberville, Republican, Basic Materials, Steel, Medium Cap ($2B to $10B)]
+tags: [CLF,Thomas H Tuberville, Republican, Basic Materials, Basic Materials - Steel, Medium Cap ($2B to $10B)]
 comments: true
 ---
 

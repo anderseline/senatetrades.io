@@ -3,7 +3,7 @@ layout: post
 title: United States Steel Corporation Common Stock [X]
 subtitle: Senator - Thomas H Tuberville
 gh-repo: anderseline/senatetrades.io
-tags: [X,Thomas H Tuberville, Republican, Basic Materials, Steel, Medium Cap ($2B to $10B)]
+tags: [X,Thomas H Tuberville, Republican, Basic Materials, Basic Materials - Steel, Medium Cap ($2B to $10B)]
 comments: true
 ---
 
