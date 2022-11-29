@@ -12,7 +12,7 @@ comments: true
 <b>File Date: </b>2022-11-29<br>
 <b>Senator: </b>John W Hickenlooper (D - Colorado)<br>
 <b>Equity: </b>Liberty Media Corporation - Series C Liberty Brave [BATRK]<br>
-<b>Trade Value: </b>$1,001 to $15,000<br>
+<b>Trade Value: </b>$50,001 to $100,000<br>
 <b>Market Cap: </b>Small Cap (Under $2B)<br>
 <b>Sector: </b>Communication Services <i>(Entertainment)</i><br>
 
